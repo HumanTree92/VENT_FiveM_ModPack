@@ -7,6 +7,8 @@
 - huraperfospy		  -- 2019 Lamborghini Huracan Performance Spyder
 - vantage					  -- NEW 2019 Aston Martin Vantage
 - camry18				    -- 2018 Toyota Camry XSE
+- fpino					    -- NEW 2018 Ferrari Portofino
+- malibu					  -- NEW 2018 Chevrolet Malibu
 - raptor2017			  -- 2017 Ford Raptor
 - cczl				      -- 2017 Chevy Camaro ZL1
 - mlnovitec			    -- 2017 Maserati Levante Novitec
@@ -26,15 +28,18 @@
 - bmws				      -- 2014 BMW S1000 RR
 - p1					      -- 2014 McLaren P1
 - c7					      -- 2014 Chevrolet Corvette C7 Stingray
+- gts8					    -- NEW 2014 Henry Clay Veloce GTS-8
 - mst					      -- 2013 Ford Mustang GT500
 - pct13				      -- 2013 Porsche Cayenne Turbo
 - evoq				      -- 2012 Range Rover Evoque
+- lumma750				  -- NEW 2011 BMW Lumma CLR 750
 - f458				      -- 2010 Ferrari 458 Italia
 - rrs08				      -- 2008 Range Rover Supercharged
 - benzsl63			    -- 2008 Mercedes-Benz SL 63 AMG
 - evo9				      -- 2006 Mitsubishi Lancer Evolution IX MR
 - h6					      -- 2005 Hummer H6
 - skyline				    -- 2002 Nissan Skyline GT-R
+- saleens7				  -- NEW 2002 Saleen S7
 - civik					    -- NEW 2000 Honda Civic Coupe
 - saleen					  -- NEW 2000 Ford Mustang Saleen
 - civic				      -- 1999 Honda Civic Si
@@ -44,6 +49,8 @@
 - m5e34				      -- 1991 BMW E34 M5
 - silv86				    -- 1986 Chevrolet Silverado
 - cherokee1			    -- 1984 Jeep Cherokee Sport Off Road 4x4
+- f288gto					  -- NEW 1984 Ferrari 288 GTO
+- gtx						    -- NEW 1971 Plymouth RoadRunner GTX 440
 - chall70					  -- NEW 1970 Dodge Challenger R/T Hemi
 - chall70drag				-- NEW 1970 Dodge Challenger R/T Hemi Drag
 - chevelle1970			-- NEW 1970 Chevrolet Chevelle SS
