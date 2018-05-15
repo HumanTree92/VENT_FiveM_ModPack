@@ -35,6 +35,8 @@
 - evoq				      -- 2012 Range Rover Evoque
 - lumma750				  -- NEW 2011 BMW Lumma CLR 750
 - f458				      -- 2010 Ferrari 458 Italia
+- moss					    -- NEW 2010 Mercedes-Benz SLR Stirling Moss
+- spyker					  -- NEW 2009 Spyker C8 Aileron
 - rrs08				      -- 2008 Range Rover Supercharged
 - benzsl63			    -- 2008 Mercedes-Benz SL 63 AMG
 - evo9				      -- 2006 Mitsubishi Lancer Evolution IX MR
@@ -57,6 +59,7 @@
 - chevelle1970			-- NEW 1970 Chevrolet Chevelle SS
 - firebird				  -- NEW 1970 Pontiac Firebird
 - camaro_ss			    -- 1969 Chevrolet Camaro SS
+- charger				    -- NEW 1969 Dodge Charger R/T
 - c10custom			    -- 1966 Chevrolet C-10 Stepside
 - stingray66				-- NEW 1966 Chevrolet Corvette Stingray
 
