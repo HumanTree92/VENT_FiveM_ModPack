@@ -5,6 +5,7 @@
 - vapidlow			    -- Sandking Lowrider
 - caracarase			  -- CaraCara Special Edition
 - huraperfospy		  -- 2019 Lamborghini Huracan Performance Spyder
+- vantage					  -- NEW 2019 Aston Martin Vantage
 - camry18				    -- 2018 Toyota Camry XSE
 - raptor2017			  -- 2017 Ford Raptor
 - cczl				      -- 2017 Chevy Camaro ZL1
@@ -34,6 +35,8 @@
 - evo9				      -- 2006 Mitsubishi Lancer Evolution IX MR
 - h6					      -- 2005 Hummer H6
 - skyline				    -- 2002 Nissan Skyline GT-R
+- civik					    -- NEW 2000 Honda Civic Coupe
+- saleen					  -- NEW 2000 Ford Mustang Saleen
 - civic				      -- 1999 Honda Civic Si
 - supra2				    -- 1998 Toyota Supra
 - rmodm3e36			    -- 1997 BMW M3 E36 V8
@@ -41,8 +44,13 @@
 - m5e34				      -- 1991 BMW E34 M5
 - silv86				    -- 1986 Chevrolet Silverado
 - cherokee1			    -- 1984 Jeep Cherokee Sport Off Road 4x4
+- chall70					  -- NEW 1970 Dodge Challenger R/T Hemi
+- chall70drag				-- NEW 1970 Dodge Challenger R/T Hemi Drag
+- chevelle1970			-- NEW 1970 Chevrolet Chevelle SS
+- firebird				  -- NEW 1970 Pontiac Firebird
 - camaro_ss			    -- 1969 Chevrolet Camaro SS
 - c10custom			    -- 1966 Chevrolet C-10 Stepside
+- stingray66				-- NEW 1966 Chevrolet Corvette Stingray
 
 # Custom Jobs Vehicles
 - towtruck			    -- Ford S331 Tow Truck
