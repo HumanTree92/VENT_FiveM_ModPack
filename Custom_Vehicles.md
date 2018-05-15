@@ -18,6 +18,7 @@
 - tahoe				      -- 2016 Chevrolet Tahoe
 - 16charger 			  -- 2016 Dodge Hellcat
 - zentenario			  -- 2016 Lamborghini Centenario Widebody
+- r8v10abt			    -- NEW 2016 Audi r8 v10 ABT
 - ageraone			    -- 2015 Koenigsegg Agera One
 - aventador 			  -- 2015 Lamborghini Aventador LP700
 - rmodlp750			    -- 2015 Lamborghini Aventador LP750
