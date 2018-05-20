@@ -42,7 +42,6 @@
 - evo9				      -- 2006 Mitsubishi Lancer Evolution IX MR
 - h6					      -- 2005 Hummer H6
 - skyline				    -- 2002 Nissan Skyline GT-R
-- saleens7				  -- NEW 2002 Saleen S7
 - civik					    -- NEW 2000 Honda Civic Coupe
 - saleen					  -- NEW 2000 Ford Mustang Saleen
 - civic				      -- 1999 Honda Civic Si
