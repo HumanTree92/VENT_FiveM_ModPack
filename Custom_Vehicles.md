@@ -65,9 +65,13 @@
 # Custom Jobs Vehicles
 - towtruck			    -- Ford S331 Tow Truck
 - towtruck2			    -- Scania 113H Tow Truck
+- kenwortht440d     -- Kenworth T440 Dump
+- kenwortht440b     -- Kenworth T440 Box
+- kenwortht660      -- Kenworth T660
+- kenwortht700      -- Kenworth T700
 
 # Custom Admin Vehicles
-- police9				    -- Admin 2015 Charger
+- staff				      -- Staff 2015 Charger
 
 # Custom Fire/EMS Vehicles
 - ambulance			    -- Ambulance
@@ -77,17 +81,20 @@
 # Custom Police Vehicles
 - police2				    -- 2015 Charger
 - police3				    -- 2013 Explorer
-- police4				    -- 2013 FPIS
+- police4				    -- 2013 Taurus
 - police5				    -- 2016 Explorer
 - police6				    -- 2013 Tahoe K9
-- police7			    	-- 2011 CVPI
+- police7			    	-- 2011 Crown Vic
 - police8			    	-- 2016 Impala
 
 # Custom Sheriff Vehicles
-- sheriff				    -- 2013 Charger
-- sheriff2			    -- 2013 Tahoe
-- sheriff3			    -- 2011 CVPI
-- pranger				    -- Chevy Silverado
+- sheriff				    -- 2015 Charger
+- sheriff2			    -- 2013 Explorer
+- sheriff3			    -- 2013 Taurus
+- sheriff4			    -- 2016 Explorer
+- sheriff5			    -- 2013 Tahoe K9
+- sheriff6		    	-- 2011 Crown Vic
+- sheriff7		    	-- 2016 Impala
 
 # Custom Division Vehicles
 - defender			    -- Coast Guard Boat
