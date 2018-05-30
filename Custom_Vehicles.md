@@ -5,10 +5,10 @@
 - vapidlow			    -- Sandking Lowrider
 - caracarase			  -- CaraCara Special Edition
 - huraperfospy		  -- 2019 Lamborghini Huracan Performance Spyder
-- vantage					  -- NEW 2019 Aston Martin Vantage
+- vantage					  -- 2019 Aston Martin Vantage
 - camry18				    -- 2018 Toyota Camry XSE
-- fpino					    -- NEW 2018 Ferrari Portofino
-- malibu					  -- NEW 2018 Chevrolet Malibu
+- fpino					    -- 2018 Ferrari Portofino
+- malibu					  -- 2018 Chevrolet Malibu
 - raptor2017			  -- 2017 Ford Raptor
 - cczl				      -- 2017 Chevy Camaro ZL1
 - mlnovitec			    -- 2017 Maserati Levante Novitec
@@ -18,7 +18,7 @@
 - tahoe				      -- 2016 Chevrolet Tahoe
 - 16charger 			  -- 2016 Dodge Hellcat
 - zentenario			  -- 2016 Lamborghini Centenario Widebody
-- r8v10abt			    -- NEW 2016 Audi r8 v10 ABT
+- r8v10abt			    -- 2016 Audi r8 v10 ABT
 - ageraone			    -- 2015 Koenigsegg Agera One
 - aventador 			  -- 2015 Lamborghini Aventador LP700
 - rmodlp750			    -- 2015 Lamborghini Aventador LP750
@@ -29,21 +29,21 @@
 - bmws				      -- 2014 BMW S1000 RR
 - p1					      -- 2014 McLaren P1
 - c7					      -- 2014 Chevrolet Corvette C7 Stingray
-- gts8					    -- NEW 2014 Henry Clay Veloce GTS-8
+- gts8					    -- 2014 Henry Clay Veloce GTS-8
 - mst					      -- 2013 Ford Mustang GT500
 - pct13				      -- 2013 Porsche Cayenne Turbo
 - evoq				      -- 2012 Range Rover Evoque
-- lumma750				  -- NEW 2011 BMW Lumma CLR 750
+- lumma750				  -- 2011 BMW Lumma CLR 750
 - f458				      -- 2010 Ferrari 458 Italia
-- moss					    -- NEW 2010 Mercedes-Benz SLR Stirling Moss
-- spyker					  -- NEW 2009 Spyker C8 Aileron
+- moss					    -- 2010 Mercedes-Benz SLR Stirling Moss
+- spyker					  -- 2009 Spyker C8 Aileron
 - rrs08				      -- 2008 Range Rover Supercharged
 - benzsl63			    -- 2008 Mercedes-Benz SL 63 AMG
 - evo9				      -- 2006 Mitsubishi Lancer Evolution IX MR
 - h6					      -- 2005 Hummer H6
 - skyline				    -- 2002 Nissan Skyline GT-R
-- civik					    -- NEW 2000 Honda Civic Coupe
-- saleen					  -- NEW 2000 Ford Mustang Saleen
+- civik					    -- 2000 Honda Civic Coupe
+- saleen					  -- 2000 Ford Mustang Saleen
 - civic				      -- 1999 Honda Civic Si
 - supra2				    -- 1998 Toyota Supra
 - rmodm3e36			    -- 1997 BMW M3 E36 V8
@@ -51,16 +51,16 @@
 - m5e34				      -- 1991 BMW E34 M5
 - silv86				    -- 1986 Chevrolet Silverado
 - cherokee1			    -- 1984 Jeep Cherokee Sport Off Road 4x4
-- f288gto					  -- NEW 1984 Ferrari 288 GTO
-- gtx						    -- NEW 1971 Plymouth RoadRunner GTX 440
-- chall70					  -- NEW 1970 Dodge Challenger R/T Hemi
-- chall70drag				-- NEW 1970 Dodge Challenger R/T Hemi Drag
-- chevelle1970			-- NEW 1970 Chevrolet Chevelle SS
-- firebird				  -- NEW 1970 Pontiac Firebird
+- f288gto					  -- 1984 Ferrari 288 GTO
+- gtx						    -- 1971 Plymouth RoadRunner GTX 440
+- chall70					  -- 1970 Dodge Challenger R/T Hemi
+- chall70drag				-- 1970 Dodge Challenger R/T Hemi Drag
+- chevelle1970			-- 1970 Chevrolet Chevelle SS
+- firebird				  -- 1970 Pontiac Firebird
 - camaro_ss			    -- 1969 Chevrolet Camaro SS
-- charger				    -- NEW 1969 Dodge Charger R/T
+- charger				    -- 1969 Dodge Charger R/T
 - c10custom			    -- 1966 Chevrolet C-10 Stepside
-- stingray66				-- NEW 1966 Chevrolet Corvette Stingray
+- stingray66				-- 1966 Chevrolet Corvette Stingray
 
 # Custom Jobs Vehicles
 - towtruck			    -- Ford S331 Tow Truck
@@ -71,7 +71,7 @@
 - kenwortht700      -- Kenworth T700
 
 # Custom Admin Vehicles
-- staff				      -- Staff 2015 Charger
+- staff				      -- 2015 Charger
 
 # Custom Fire/EMS Vehicles
 - ambulance			    -- Ambulance
