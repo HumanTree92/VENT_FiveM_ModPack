@@ -1,6 +1,6 @@
 # Custom Civilian Vehicles
-- megaram				    -- Dodge Ram Monster
-- rancherxlextreme	-- Rancher XL Monster
+- megaram           -- Dodge Ram Monster
+- rancherxlextreme  -- Rancher XL Monster
 - sandkinghd			  -- Sandking HD Monster
 - vapidlow			    -- Sandking Lowrider
 - caracarase			  -- CaraCara Special Edition
