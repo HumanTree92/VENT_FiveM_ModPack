@@ -15,7 +15,7 @@ The installation is rather quite simple.
 Pick whatever Radiance Setting you want to use. You can use whatever one you want & it doesn't have to be one of these.
 Install Path: citizen/common/data
 
-Diffences: 
+Differences: 
 - Radiance V 1.8 (Bright Lights but makes interior light bright)
 - Realistic Radiance 1.0.1 (Bright Lights but decreases interior light to default & make Police lights themselves look weird)
 
