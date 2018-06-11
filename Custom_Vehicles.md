@@ -70,8 +70,10 @@
 - kenwortht660			-- Kenworth T660
 - kenwortht700			-- Kenworth T700
 
-# Custom Admin Vehicles
-- staff					-- 2015 Charger
+# Custom Staff Vehicles
+- staff					-- staff - 2015 Charger
+- staff2				-- Staff - Corvette Black
+- staff3				-- Staff - Corvette Green
 
 # Custom Fire/EMS Vehicles
 - ambulance				-- Ambulance
@@ -95,13 +97,18 @@
 - sheriff5				-- 2013 Tahoe K9
 - sheriff6				-- 2011 Crown Vic
 - sheriff7				-- 2016 Impala
+- pranger				  -- Chevy Silverado
 
 # Custom Division Vehicles
+- audipd				-- HSU - Audi
+- corvettepd			-- HSU - Corvette
 - defender				-- Coast Guard Boat
 - fbi					-- 2013 Charger
 - fbi2					-- 2013 Tahoe
+- mclarenpd			-- HSU - McLaren
 - policeb				-- Western Police Bike
 - policet				-- Prisoner Transport Van
 - polmav				-- Aviation
-- porschepd				-- HSU Porsche 911 GTR3
-- riot					-- SRT/SWAT Bearcat
+- porschepd			-- HSU - Porsche 911 GTR3
+- riot					-- SRT/SWAT - Bearcat
+- riot2         -- SRT/SWAT - Riot Truck
