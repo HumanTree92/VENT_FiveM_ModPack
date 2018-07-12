@@ -63,52 +63,54 @@
 - stingray66          -- 1966 Chevrolet Corvette Stingray
 
 # Custom Jobs Vehicles
-- towtruck				-- Ford S331 Tow Truck
-- towtruck2				-- Scania 113H Tow Truck
-- kenwortht440d			-- Kenworth T440 Dump
-- kenwortht440b			-- Kenworth T440 Box
-- kenwortht660			-- Kenworth T660
-- kenwortht700			-- Kenworth T700
+- tow01               -- Scania 113H Tow Truck
+- tow02               -- Ford S331 Tow Truck
+- kenwortht440d       -- Kenworth T440 Dump
+- kenwortht440b       -- Kenworth T440 Box
+- kenwortht660        -- Kenworth T660
+- kenwortht700        -- Kenworth T700
 
 # Custom Staff Vehicles
-- staff					-- staff - 2015 Charger
-- staff2				-- Staff - Corvette Black
-- staff3				-- Staff - Corvette Green
+- staff01             -- 2015 Charger
+- staff02             -- Corvette Black
+- staff03             -- Corvette Green
 
 # Custom Fire/EMS Vehicles
-- ambulance				-- Ambulance
-- firebrush				-- Fire Brush
-- firetruk				-- Fire Truck
+- fire01              -- Ambulance
+- fire02              -- Fire Brush
+- fire03              -- Fire Truck
+- fire04              -- 2016 Explorer
 
 # Custom Police Vehicles
-- police2				-- 2015 Charger
-- police3				-- 2013 Explorer
-- police4				-- 2013 Taurus
-- police5				-- 2016 Explorer
-- police6				-- 2013 Tahoe K9
-- police7				-- 2011 Crown Vic
-- police8				-- 2016 Impala
+- police01            -- 2015 Charger
+- police02            -- 2013 Explorer
+- police03            -- 2013 Taurus
+- police04            -- 2016 Explorer
+- police05            -- 2013 Tahoe K9
+- police06            -- 2011 Crown Vic
+- police07            -- 2016 Impala
 
 # Custom Sheriff Vehicles
-- sheriff				-- 2015 Charger
-- sheriff2				-- 2013 Explorer
-- sheriff3				-- 2013 Taurus
-- sheriff4				-- 2016 Explorer
-- sheriff5				-- 2013 Tahoe K9
-- sheriff6				-- 2011 Crown Vic
-- sheriff7				-- 2016 Impala
-- pranger				  -- Chevy Silverado
+- sheriff01           -- 2015 Charger
+- sheriff02           -- 2013 Explorer
+- sheriff03           -- 2013 Taurus
+- sheriff04           -- 2016 Explorer
+- sheriff05           -- 2013 Tahoe K9
+- sheriff06           -- 2011 Crown Vic
+- sheriff07           -- 2016 Impala
+- sheriff08           -- Sandking
 
 # Custom Division Vehicles
-- audipd				-- HSU - Audi
-- corvettepd			-- HSU - Corvette
-- defender				-- Coast Guard Boat
-- fbi					-- 2013 Charger
-- fbi2					-- 2013 Tahoe
-- mclarenpd			-- HSU - McLaren
-- policeb				-- Western Police Bike
-- policet				-- Prisoner Transport Van
-- polmav				-- Aviation
-- porschepd			-- HSU - Porsche 911 GTR3
-- riot					-- SRT/SWAT - Bearcat
-- riot2         -- SRT/SWAT - Riot Truck
+- hsu01               -- Audi R8 LMS PE
+- hsu02               -- Chevrolet Corvette C7R PE
+- hsu03               -- McLaren 650s GT3 PE
+- hsu04               -- RUF RGT8 PE
+- cgd01               -- Coast Guard Defender
+- fbi01               -- 2013 Charger
+- fbi02               -- 2013 Tahoe
+- biker01             -- Western Police Bike
+- biker02             -- BMW Police Bike
+- ptv01               -- Prisoner Transport Van
+- polmav              -- Aviation
+- riot01              -- SRT/SWAT Bearcat
+- riot02              -- SRT/SWAT Rioter
