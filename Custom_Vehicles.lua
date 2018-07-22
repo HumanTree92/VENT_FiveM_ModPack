@@ -61,3 +61,59 @@
 - charger             -- 1969 Dodge Charger R/T                         -- Muscle           -- $
 - c10custom           -- 1966 Chevrolet C-10 Stepside                   -- Muscle           -- $
 - stingray66          -- 1966 Chevrolet Corvette Stingray               -- Sport Classic    -- $
+
+# Custom Jobs Vehicles
+- tow01               -- Scania 113H Tow Truck
+- tow02               -- Ford S331 Tow Truck
+- kenwortht440d       -- Kenworth T440 Dump
+- kenwortht440b       -- Kenworth T440 Box
+- kenwortht660        -- Kenworth T660
+- kenwortht700        -- Kenworth T700
+
+# Custom Staff Vehicles
+- staff01             -- 2015 Charger
+- staff02             -- Audi R8 LMS PE
+- staff03             -- Chevrolet Corvette C7R PE
+- staff04             -- McLaren 650s GT3 PE
+- staff05             -- RUF RGT8 PE
+
+# Custom Fire/EMS Vehicles
+- fire01              -- Ambulance
+- fire02              -- Fire Brush
+- fire03              -- Fire Truck
+- fire04              -- 2016 Explorer
+
+# Custom Police Vehicles
+- police01            -- 2015 Charger
+- police02            -- 2013 Explorer
+- police03            -- 2013 Taurus
+- police04            -- 2016 Explorer
+- police05            -- 2013 Tahoe K9
+- police06            -- 2011 Crown Vic
+- police07            -- 2016 Impala
+
+# Custom Sheriff Vehicles
+- sheriff01           -- 2015 Charger
+- sheriff02           -- 2013 Explorer
+- sheriff03           -- 2013 Taurus
+- sheriff04           -- 2016 Explorer
+- sheriff05           -- 2013 Tahoe K9
+- sheriff06           -- 2011 Crown Vic
+- sheriff07           -- 2016 Impala
+- sheriff08           -- Sandking
+
+# Custom Division Vehicles
+- hsu01               -- Audi R8 LMS PE
+- hsu02               -- Chevrolet Corvette C7R PE
+- hsu03               -- McLaren 650s GT3 PE
+- hsu04               -- RUF RGT8 PE
+- cgd01               -- Coast Guard Defender
+- fbi01               -- 2013 Charger
+- fbi02               -- 2013 Tahoe
+- biker01             -- Western Police Bike
+- biker02             -- BMW Police Bike
+- ptv01               -- Prisoner Transport Van
+- polmav              -- Aviation
+- firehawk            -- S70 Fire Hawk
+- riot01              -- SRT/SWAT Bearcat
+- riot02              -- SRT/SWAT Rioter
