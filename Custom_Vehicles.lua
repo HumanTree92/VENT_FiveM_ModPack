@@ -41,8 +41,8 @@
 - rrs08               -- 2008 Range Rover Supercharged                  -- SUV              -- $45,000          -- 
 - benzsl63            -- 2008 Mercedes-Benz SL 63 AMG                   -- Super            -- $2,200,000       -- 
 - evo9                -- 2006 Mitsubishi Lancer Evolution IX MR         -- Sports           -- $100,000         -- 
-- h14x4               -- 2006 Hummer H1 4x4                             -- Off-Road         -- $
-- h16x6               -- 2006 Hummer H1 6x6                             -- Off-Road         -- $
+- h14x4               -- 2006 Hummer H1 4x4                             -- Off-Road         -- $100,000         --
+- h16x6               -- 2006 Hummer H1 6x6                             -- Off-Road         -- $100,000         --
 - h6                  -- 2005 Hummer H6                                 -- SUV              -- $30,500          -- 
 - skyline             -- 2002 Nissan Skyline GT-R                       -- Sports           -- $175,000         -- 
 - civik               -- 2000 Honda Civic Coupe                         -- Sedan            -- $65,000          -- 
