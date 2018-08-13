@@ -68,10 +68,12 @@
 # Custom Jobs Vehicles
 - tow01               -- Scania 113H Tow Truck
 - tow02               -- Ford S331 Tow Truck
+- kenwortht440        -- Kenworth T440 Tow
 - kenwortht440d       -- Kenworth T440 Dump
 - kenwortht440b       -- Kenworth T440 Box
 - kenwortht660        -- Kenworth T660
 - kenwortht700        -- Kenworth T700
+- peterbilt289        -- Peterbilt 289
 
 # Custom Staff Vehicles
 - staff01             -- 2015 Charger
