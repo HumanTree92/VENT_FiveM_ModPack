@@ -1,16 +1,15 @@
 # Custom Civilian Vehicles
 - SPAWN ID            -- Vehicle Names                                  -- CLASS            -- PRICE $          -- END
 - megaram             -- Dodge Ram Monster                              -- Off-Road         -- $100,000         -- 
-- rancherxlextreme    -- Rancher XL Monster                             -- Off-Road         -- $100,000         -- 
-- sandkinghd          -- Sandking HD Monster                            -- Off-Road         -- $100,000         -- 
+- rancherxlx          -- Rancher XL Monster                             -- Off-Road         -- $100,000         -- 
 - vapidlow            -- Sandking Lowrider                              -- Muscle           -- $45,000          -- 
-- ysfbikea            -- Sci Fi Hover Bike                              -- Motorcycles      -- $15,000,000      -- 
 - caracarase          -- CaraCara Special Edition                       -- Off-Road         -- $100,000         -- 
-- huraperfospy        -- 2019 Lambo Huracan Performance Spyder          -- Super            -- $1,200,000       -- 
+- huraperspy          -- 2019 Lambo Huracan Performance Spyder          -- Super            -- $1,200,000       -- 
 - vantage             -- 2019 Aston Martin Vantage                      -- Sports           -- $150,000         -- 
 - camry18             -- 2018 Toyota Camry XSE                          -- Sedan            -- $80,000          -- 
 - fpino               -- 2018 Ferrari Portofino                         -- Super            -- $1,200,000       -- 
 - malibu              -- 2018 Chevy Malibu                              -- Sedan            -- $80,000          -- 
+- denalihd            -- 2018 GMC Sierra Denali 3500D                   -- Off-Road         -- $100,000         -- 
 - raptor2017          -- 2017 Ford Raptor                               -- Off-Road         -- $100,000         -- 
 - cczl                -- 2017 Chevy Camaro ZL1                          -- Sports           -- $150,000         -- 
 - mlnovitec           -- 2017 Maserati Levante Novitec                  -- SUV              -- $80,000          -- 
@@ -58,13 +57,19 @@
 - f288gto             -- 1984 Ferrari 288 GTO                           -- Sport Classic    -- $85,000          -- 
 - gtx                 -- 1971 Plymouth RoadRunner GTX 440               -- Muscle           -- $70,000          -- 
 - chall70             -- 1970 Dodge Challenger R/T Hemi                 -- Muscle           -- $75,000          -- 
-- chall70drag         -- 1970 Dodge Challenger R/T Hemi Drag            -- Muscle           -- $10,000,000      -- 
-- chevelle1970        -- 1970 Chevy Chevelle SS                         -- Muscle           -- $52,000          -- 
+- chevelle70          -- 1970 Chevy Chevelle SS                         -- Muscle           -- $52,000          -- 
 - firebird            -- 1970 Pontiac Firebird                          -- Muscle           -- $54,000          -- 
-- camaro_ss           -- 1969 Chevy Camaro SS                           -- Muscle           -- $52,000          -- 
+- camaross            -- 1969 Chevy Camaro SS                           -- Muscle           -- $52,000          -- 
 - charger             -- 1969 Dodge Charger R/T                         -- Muscle           -- $52,000          -- 
 - c10custom           -- 1966 Chevy C-10 Stepside                       -- Muscle           -- $46,000          -- 
 - stingray66          -- 1966 Chevy Corvette Stingray                   -- Sport Classic    -- $85,000          -- 
+
+# Custom VIP Civilian Vehicles
+- ysfbikea            -- Sci Fi Hover Bike                              -- Motorcycles      -- $10,000,000      -- 
+- 488lb               -- 2015 Ferrari 488 GTB                           -- Super            -- $1,200,000       -- 
+- brz                 -- 2015 Subaru Rocket Bunny BRZ                   -- Super            -- $1,200,000       --
+- f430                -- 2009 Ferrari F430                              -- Super            -- $1,200,000       -- 
+- chall70drag         -- 1970 Dodge Challenger R/T Hemi Drag            -- Muscle           -- $5,000,000       -- 
 
 # Custom Boats -- WIP!!!
 - rboat               -- Rapid Speed Boat                               -- Boats            -- $48,000          -- 
@@ -72,12 +77,12 @@
 # Custom Jobs Vehicles
 - tow01               -- Scania 113H Tow Truck
 - tow02               -- Ford S331 Tow Truck
-- kenwortht440        -- Kenworth T440 Tow
-- kenwortht440d       -- Kenworth T440 Dump
-- kenwortht440b       -- Kenworth T440 Box
-- kenwortht660        -- Kenworth T660
-- kenwortht700        -- Kenworth T700
-- peterbilt289        -- Peterbilt 289
+- kenwort40s          -- Kenworth T440 Tow
+- kenwort40d          -- Kenworth T440 Dump
+- kenwort40b          -- Kenworth T440 Box
+- kenwort60s          -- Kenworth T660
+- kenwort70s          -- Kenworth T700
+- petbilt289          -- Peterbilt 289
 
 # Custom Staff Vehicles
 - staff01             -- 2015 Charger
