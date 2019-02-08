@@ -65,73 +65,90 @@
 - stingray66          -- 1966 Chevy Corvette Stingray                   -- Sport Classic    -- $85,000          -- 
 
 # Custom VIP Civilian Vehicles
+- SPAWN ID            -- Vehicle Names                                  -- CLASS            -- PRICE $          -- END
 - ysfbikea            -- Sci Fi Hover Bike                              -- Motorcycles      -- $10,000,000      -- 
 - 488lb               -- 2015 Ferrari 488 GTB                           -- Super            -- $1,200,000       -- 
 - brz                 -- 2015 Subaru Rocket Bunny BRZ                   -- Super            -- $1,200,000       --
 - f430                -- 2009 Ferrari F430                              -- Super            -- $1,200,000       -- 
 - chall70drag         -- 1970 Dodge Challenger R/T Hemi Drag            -- Muscle           -- $5,000,000       -- 
 
-# Custom Boats -- WIP!!!
-- rboat               -- Rapid Speed Boat                               -- Boats            -- $48,000          -- 
+# Custom Boats
+- SPAWN ID            -- Vehicle Names                                  -- CLASS            -- PRICE $          -- END
+- rboat               -- Rapid Speed Boat WIP                           -- Boats            -- $48,000          -- 
+- yacht2              -- Sea Ray L650 Express                           -- Boats            -- $750,000         -- 
 
 # Custom Jobs Vehicles
-- tow01               -- Scania 113H Tow Truck
-- tow02               -- Ford S331 Tow Truck
-- kenwort40s          -- Kenworth T440 Tow
-- kenwort40d          -- Kenworth T440 Dump
-- kenwort40b          -- Kenworth T440 Box
-- kenwort60s          -- Kenworth T660
-- kenwort70s          -- Kenworth T700
-- petbilt289          -- Peterbilt 289
+- SPAWN ID            -- Vehicle Names                                  -- JOB              -- PRICE $          -- END
+- tow01               -- Scania 113H Tow Truck                          -- Mechanic         -- FREE             -- 
+- tow02               -- Ford S331 Tow Truck                            -- Mechanic         -- FREE             -- 
+- kenwort40s          -- Kenworth T440 Tow                              -- Mechanic         -- FREE             -- 
+- kenwort40d          -- Kenworth T440 Dump                             -- Miner            -- $125,000         -- 
+- kenwort40b          -- Kenworth T440 Box                              -- Slaughter        -- $125,000         -- 
+- kenwort60s          -- Kenworth T660                                  -- Lumberjack       -- $130,000         -- 
+- kenwort70s          -- Kenworth T700                                  -- Fueler           -- $135,000         -- 
+- petbilt289          -- Peterbilt 289                                  -- None             -- $140,000         -- 
 
 # Custom Staff Vehicles
-- staff01             -- 2015 Charger
-- staff02             -- Audi R8 LMS PE
-- staff03             -- Chevy Corvette C7R PE
-- staff04             -- McLaren 650s GT3 PE
-- staff05             -- RUF RGT8 PE
+- SPAWN ID            -- Vehicle Names                                  -- CLASS            -- PRICE $          -- END
+- staff01             -- 2015 Charger                                   -- Mods+            -- $15,000          -- 
+- staff02             -- Audi R8 LMS PE                                 -- Admins+          -- $25,000          -- 
+- staff03             -- Chevy Corvette C7R PE                          -- Admins+          -- $25,000          -- 
+- staff04             -- McLaren 650s GT3 PE                            -- Admins+          -- $25,000          -- 
+- staff05             -- RUF RGT8 PE                                    -- Admins+          -- $25,000          -- 
 
-# Custom Fire/EMS Vehicles
-- fire01              -- Ambulance
-- fire02              -- Fire Brush
-- fire03              -- Fire Truck
-- fire04              -- 2016 Explorer
+# Custom Fire/Rescue Vehicles
+- SPAWN ID            -- Vehicle Names                                  -- CLASS            -- PRICE $          -- END
+- fire01              -- Ambulance                                      -- Cadet+           -- $2,500           -- 
+- fire02              -- Fire Brush                                     -- Senior Rescuer+  -- $7,500           -- 
+- fire03              -- Fire Truck                                     -- Rescuer+         -- $5,000           -- 
+- fire04              -- 2016 Explorer                                  -- Lieutenant+      -- $10,000          -- 
+- polmav              -- Aviation | Livery 2                            -- Lieutenant+      -- $10,000          -- 
+- firehawk            -- Aviation | S70 Fire Hawk                       -- Lieutenant+      -- $12,500          -- 
 
 # Custom Police Vehicles
-- police01            -- 2015 Charger
-- police02            -- 2013 Explorer
-- police03            -- 2013 Taurus
-- police04            -- 2016 Explorer
-- police05            -- 2013 Tahoe K9
-- police06            -- 2011 Crown Vic
-- police07            -- 2016 Impala
+- SPAWN ID            -- Vehicle Names                                  -- CLASS            -- PRICE $          -- END
+- police01            -- 2015 Charger                                   -- Captain+         -- $15,000          -- 
+- police02            -- 2013 Explorer                                  -- Corporal+        -- $7,500           -- 
+- police03            -- 2013 Taurus                                    -- Cadet+           -- $2,500           -- 
+- police04            -- 2016 Explorer                                  -- Sergeant+        -- $10,000          -- 
+- police05            -- 2013 Tahoe | K9 Division                       -- Sergeant+        -- $10,000          -- 
+- police06            -- 2011 Crown Vic                                 -- Lieutenant+      -- $12,500          -- 
+- police07            -- 2016 Impala                                    -- Officer+         -- $5,000           -- 
+- police08            -- Sandking                                       -- Sergeant+        -- $12,500          -- 
+- police09            -- 2013 Ford F350                                 -- Sergeant+        -- $12,500          -- 
+- police69            -- Boss | Marshall                                -- Boss             -- $1,000,000       -- 
+- ptv01               -- Prisoner Transport Van                         -- Officer+         -- $500             -- 
+- cgd01               -- Coast Guard Defender                           -- Corporal+        -- $7,500           -- 
+- polmav              -- Aviation                                       -- Sergeant+        -- $10,000          -- 
+- riot01              -- SRT/SWAT Bearcat                               -- Lieutenant+      -- $12,500          -- 
+- riot02			  -- SRT/SWAT Rioter                                -- Lieutenant+      -- $15,000          -- 
 
 # Custom Sheriff Vehicles
-- sheriff01           -- 2015 Charger
-- sheriff02           -- 2013 Explorer
-- sheriff03           -- 2013 Taurus
-- sheriff04           -- 2016 Explorer
-- sheriff05           -- 2013 Tahoe K9
-- sheriff06           -- 2011 Crown Vic
-- sheriff07           -- 2016 Impala
-- sheriff08           -- Sandking
-
-# Custom Division Vehicles
-- hsu01               -- Audi R8 LMS PE
-- hsu02               -- Chevy Corvette C7R PE
-- hsu03               -- McLaren 650s GT3 PE
-- hsu04               -- RUF RGT8 PE
-- cgd01               -- Coast Guard Defender
-- fbi01               -- 2013 Charger
-- fbi02               -- 2013 Tahoe
-- fbi03               -- 2016 Dodge Challenger
-- biker01             -- Western Police Bike
-- biker02             -- BMW Police Bike
-- ptv01               -- Prisoner Transport Van
-- polmav              -- Aviation
-- firehawk            -- S70 Fire Hawk
-- riot01              -- SRT/SWAT Bearcat
-- riot02			  -- SRT/SWAT Rioter
+- SPAWN ID            -- Vehicle Names                                  -- CLASS            -- PRICE $          -- END
+- sheriff01           -- 2015 Charger                                   -- Lieutenant+      -- $15,000          -- 
+- sheriff02           -- 2013 Explorer                                  -- Corporal+        -- $7,500           -- 
+- sheriff03           -- 2013 Taurus                                    -- Pro Deputy+      -- $2,500           -- 
+- sheriff04           -- 2016 Explorer                                  -- Sergeant+        -- $10,000          -- 
+- sheriff05           -- 2013 Tahoe | K9 Division                       -- Sergeant+        -- $10,000          -- 
+- sheriff06           -- 2011 Crown Vic                                 -- Major+           -- $12,500          -- 
+- sheriff07           -- 2016 Impala                                    -- Deputy+          -- $5,000           -- 
+- sheriff08           -- Ranger | Sandking                              -- Deputy+          -- $12,500          -- 
+- sheriff09           -- Ranger | 2013 Ford F350                        -- Deputy+          -- $12,500          -- 
+- sheriff69           -- Boss | Marshall                                -- Boss             -- $1,000,000       -- 
+- ptv01               -- Prisoner Transport Van                         -- Deputy+          -- $500             -- 
+- fbi01               -- FBI | 2013 Charger                             -- Sergeant+        -- $15,000          -- 
+- fbi02               -- FBI | 2013 Tahoe                               -- Sergeant+        -- $10,000          -- 
+- fbi03               -- FBI | 2016 Dodge Challenger                    -- Sergeant+        -- $12,500          -- 
+- hsu01               -- HSU | Audi R8 LMS PE                           -- Captain+         -- $25,000          -- 
+- hsu02               -- HSU | Chevy Corvette C7R PE                    -- Captain+         -- $25,000          -- 
+- hsu03               -- HSU | McLaren 650s GT3 PE                      -- Captain+         -- $25,000          -- 
+- hsu04               -- HSU | RUF RGT8 PE                              -- Captain+         -- $25,000          -- 
+- biker01             -- Biker | Western Police Bike                    -- Corporal+        -- $2,500           -- 
+- biker02             -- Biker | BMW Police Bike                        -- Corporal+        -- $5,000           -- 
+- cgd01               -- Coast Guard Defender                           -- Corporal+        -- $7,500           -- 
+- polmav              -- Aviation                                       -- Sergeant+        -- $10,000          -- 
+- riot01              -- SRT/SWAT Bearcat                               -- Sergeant+        -- $12,500          -- 
+- riot02			  -- SRT/SWAT Rioter                                -- Sergeant+        -- $15,000          -- 
 
 # Blocked/Replaced Default Cars
 - fbi                 -- 2011 G6 Security CVPI
