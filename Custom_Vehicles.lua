@@ -102,6 +102,7 @@
 - fire02              -- Fire Brush                                     -- Senior Rescuer+  -- $7,500           -- 
 - fire03              -- Fire Truck                                     -- Rescuer+         -- $5,000           -- 
 - fire04              -- 2016 Explorer                                  -- Lieutenant+      -- $10,000          -- 
+- fire05              -- 2013 Chevy Silverado                           -- Lieutenant+      -- $12,500          -- 
 - polmav              -- Aviation | Livery 2                            -- Lieutenant+      -- $10,000          -- 
 - firehawk            -- Aviation | S70 Fire Hawk                       -- Lieutenant+      -- $12,500          -- 
 
@@ -116,6 +117,7 @@
 - police07            -- 2016 Impala                                    -- Officer+         -- $5,000           -- 
 - police08            -- Sandking                                       -- Sergeant+        -- $12,500          -- 
 - police09            -- 2013 Ford F350                                 -- Sergeant+        -- $12,500          -- 
+- police10            -- 2013 Chevy Silverado                           -- Sergeant+        -- $12,500          -- 
 - police69            -- Boss | Marshall                                -- Boss             -- $1,000,000       -- 
 - ptv01               -- Prisoner Transport Van                         -- Officer+         -- $500             -- 
 - cgd01               -- Coast Guard Defender                           -- Corporal+        -- $7,500           -- 
@@ -132,13 +134,17 @@
 - sheriff05           -- 2013 Tahoe | K9 Division                       -- Sergeant+        -- $10,000          -- 
 - sheriff06           -- 2011 Crown Vic                                 -- Major+           -- $12,500          -- 
 - sheriff07           -- 2016 Impala                                    -- Deputy+          -- $5,000           -- 
-- sheriff08           -- Ranger | Sandking                              -- Deputy+          -- $12,500          -- 
-- sheriff09           -- Ranger | 2013 Ford F350                        -- Deputy+          -- $12,500          -- 
+- sheriff08           -- Sandking                                       -- Deputy+          -- $12,500          -- 
+- sheriff09           -- 2013 Ford F350                                 -- Deputy+          -- $12,500          -- 
+- sheriff10           -- 2013 Chevy Silverado                           -- Deputy+          -- $12,500          -- 
 - sheriff69           -- Boss | Marshall                                -- Boss             -- $1,000,000       -- 
 - ptv01               -- Prisoner Transport Van                         -- Deputy+          -- $500             -- 
 - fbi01               -- FBI | 2013 Charger                             -- Sergeant+        -- $15,000          -- 
 - fbi02               -- FBI | 2013 Tahoe                               -- Sergeant+        -- $10,000          -- 
 - fbi03               -- FBI | 2016 Dodge Challenger                    -- Sergeant+        -- $12,500          -- 
+- fbi04               -- FBI | 2013 Ford F350                           -- Sergeant+        -- $12,500          -- 
+- fbi05               -- FBI | 2013 Chevy Silverado                     -- Sergeant+        -- $12,500          --
+- fbi06               -- FBI | Invetero Coquette PE                     -- Sergeant+        -- $25,000          -- 
 - hsu01               -- HSU | Audi R8 LMS PE                           -- Captain+         -- $25,000          -- 
 - hsu02               -- HSU | Chevy Corvette C7R PE                    -- Captain+         -- $25,000          -- 
 - hsu03               -- HSU | McLaren 650s GT3 PE                      -- Captain+         -- $25,000          -- 

@@ -13,10 +13,11 @@ These files are 100% optional.
   * Install Path: Grand Theft Auto V/x64/audio/sfx
   * Custom Siren (This is what we use)
   * Backup Default Siren (This is just in case you forget to backup your data)
-* Visual Settings (We here at VE prefer Realistic Radiance 1.0.1)
+* Visual Settings (We here at VE prefer Make Visuals Great Again aka MVGA)
   * Install Path: citizen/common/data
   * Radiance V 1.8 (Bright Lights but makes interior light bright)
   * Realistic Radiance 1.0.1 (Bright Lights but decreases interior light to default & make some Police lights themselves look weird)
+  * MVGA Drag & Drop (Makes Visuals better & more realistic. Does have Bright Interior Lighting on some Vehicles. Also the Taxi Light is super bright but can be fixed.)
 
 # Visit Velociti Entertainment:
 * [TS3](http://www.velocitientertainment.com/ts3/)
