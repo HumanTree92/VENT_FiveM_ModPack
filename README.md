@@ -1,11 +1,14 @@
 # About VENT_FiveM_ModPack:
 This is a Mod Pack for Velociti Entertainments Public FiveM Server.
 
+* Simple Drag & Drop - Map Fix & Roll Coal
+* Advanced Drag & Drop - Map Fix, Roll Coal, Radiance V, & Make Visuals Great Again.
+
 # Download & Installation:
 1) Download the .zip.
 2) Extract the .zip or Open the .zip.
 3) Go to your FiveM Application Data Folder (FiveM Directory).
-4) Drag & Drop all the contents inside the Drag & Drop into your FiveM Directory.
+4) Drag & Drop all the contents inside either the Simple Drag & Drop or Advanced Drag & Drop into your FiveM Directory.
 
 # OPTIONAL:
 These files are 100% optional.
