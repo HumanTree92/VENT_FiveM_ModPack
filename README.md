@@ -23,19 +23,18 @@ These files are 100% optional.
   * MVGA Drag & Drop (Makes Visuals better & more realistic. Does have Bright Interior Lighting on some Vehicles. Also the Taxi Light is super bright but can be fixed.)
 
 # Visit Velociti Entertainment:
-* [TS3](http://www.velocitientertainment.com/ts3/)
-* [Discord](https://discord.gg/azEY2kU)
-* [Website](www.velocitientertainment.com/)
-* [Forums](www.velocitientertainment.com/forum)
-* [About Us](http://www.velocitientertainment.com/pc-gaming/)
-* [Donate](http://www.velocitientertainment.com/donations/)
+* TS3 - ts3.velocitientertainment.com
+* [Discord](http://discord.velocitientertainment.com)
+* [Website](http://velocitientertainment.com/)
+* [Forums](http://velocitientertainment.com/forum)
+* [About Us](http://velocitientertainment.com/pc-gaming/)
+* [Donate](http://velocitientertainment.com/donations/)
 * [Steam Group](http://steamcommunity.com/groups/velocitientertainment)
-* [Facebook](www.facebook.com/VelocitiEntertainment)
-* [Twitter](www.twitter.com/VelocitiEnt)
-* [YouTube](www.youtube.com/user/HumanTree92)
-* [Twitch](www.twitch.tv/humantree92)
-* [eBay](www.ebay.com/usr/humantree92)
-* Kik #vegaming
+* [Facebook](http://facebook.com/VelocitiEntertainment)
+* [Twitter](http://twitter.com/VelocitiEnt)
+* [YouTube](http://youtube.com/user/HumanTree92)
+* [Twitch](http://twitch.tv/humantree92)
+* [eBay](http://ebay.com/usr/humantree92)
 
 # Legal
 ### License
