@@ -2,6 +2,7 @@
 This is a Mod Pack for Velociti Entertainments Public FiveM Server.
 
 * Drag & Drop - Roll Coal, Radiance V, & Make Visuals Great Again.
+* [Download this Siren & Gunshot sound pack.](https://www.lcpdfr.com/downloads/gta5mods/audio/26135-touchmaster-delta-siren-fivem-ready-studio-recorded/)
 
 # Download & Installation:
 1) Download the .zip.
