@@ -1,7 +1,7 @@
 # About VENT_FiveM_ModPack:
 This is a Mod Pack for Velociti Entertainments Public FiveM Server.
 
-* Drag & Drop - Roll Coal, Radiance V, & Make Visuals Great Again.
+* Drag & Drop - Roll Coal, Clear Water, Radiance V, & Make Visuals Great Again. | Note: Not Needed if running an ENB like NVE
 * [Download this Siren & Gunshot sound pack.](https://www.lcpdfr.com/downloads/gta5mods/audio/26135-touchmaster-delta-siren-fivem-ready-studio-recorded/)
 
 # Download & Installation:
@@ -12,10 +12,10 @@ This is a Mod Pack for Velociti Entertainments Public FiveM Server.
 
 # OPTIONAL:
 These files are 100% optional.
-* Sirens WIP
-  * Install Path: Grand Theft Auto V/x64/audio/sfx
-  * Custom Siren (This is what we use)
-  * Backup Default Siren (This is just in case you forget to backup your data)
+* Clear Water
+  * Makes the Water Much more Clear
+* Roll Coal
+  * Rolls Coal on larger Vehicles
 * Visual Settings (We here at VE prefer Make Visuals Great Again aka MVGA)
   * Install Path: citizen/common/data
   * Radiance V 1.8 (Bright Lights but makes interior light bright)
@@ -23,7 +23,6 @@ These files are 100% optional.
   * MVGA Drag & Drop (Makes Visuals better & more realistic. Does have Bright Interior Lighting on some Vehicles. Also the Taxi Light is super bright but can be fixed.)
 
 # Visit Velociti Entertainment:
-* TS3 - ts3.velocitientertainment.com
 * [Discord](http://discord.velocitientertainment.com)
 * [Website](http://velocitientertainment.com/)
 * [Forums](http://velocitientertainment.com/forum)
@@ -40,7 +39,7 @@ These files are 100% optional.
 ### License
 VENT_FiveM_ModPack - Mod Pack for Velociti Entertainments FiveM Server.
 
-Copyright (C) 2011-2020 Velociti Entertainment
+Copyright (C) 2011-2021 Velociti Entertainment
 
 This program Is free software: you can redistribute it And/Or modify it under the terms Of the GNU General Public License As published by the Free Software Foundation, either version 3 Of the License, Or (at your option) any later version.
 
